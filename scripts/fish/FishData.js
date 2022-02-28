@@ -18,7 +18,7 @@ const fishCollection = [
   {
     species: "Sword Fish",
     length: 2.5,
-    location: "Florida",
+    location: "Miama, Florida",
     saltwater: true,
     image: "swordfish.jpg",
     name: "Sharpy",
@@ -27,7 +27,7 @@ const fishCollection = [
   {
     species: "Shark",
     length: 25,
-    location: "Florida",
+    location: "Los Angeles, CA",
     saltwater: true,
     image: "shark.jpg",
     name: "Bruce",
