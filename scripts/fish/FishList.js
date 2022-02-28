@@ -17,8 +17,8 @@ export const FishList = () => {
   let fishHTMLRepresentation = ""; 
 
   // Loop over the array of fish
-  for (const oneThingFromTheSea of fishes) {
-  fishHTMLRepresentation += Fish(oneThingFromTheSea);
+  for (const fish of fishes) {
+  fishHTMLRepresentation += Fish(fish);
 }
 
   // Add to the existing HTML in the content element
